@@ -13,3 +13,6 @@ to fix just run the command "pip uninstall playsound"
 and run the command "pip install playsound==1.2.2"
 
 ### The Second method is using the library pyttsx3, working offline.
+
+TextToSpeech_pyttsx3.ipynb
+
